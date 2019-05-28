@@ -10,7 +10,7 @@ Tesla iOS Shortcut Inventory:
 * Generate_Tesla_Token.shortcut
   * Generates an authorization token from the captured Tesla.com credentials
   * NOTE: This shortcut needs to be executed at least every 45 days since the tokens automatically expire
-  * RECOMMENDATION: Set a reminder in your favorite calendaring or task app with the "workflow://run-workflow?name=Tesla_Generate_Token" link in the notes section
+  * RECOMMENDATION: Set a reminder in your favorite calendaring or task app with the "workflow://run-workflow?name=Generate_Tesla_Token" link in the notes section
 
 * Open_Frunk.shortcut
   * Wakes the vehicle (if needed) and opens the frunk
