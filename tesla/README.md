@@ -33,6 +33,12 @@ Tesla iOS Shortcut Inventory:
 * Turn_Off_Sentry.shortcut
   * Wakes the vehicle (if needed) and turns off Sentry Mode
 
+* Lock_Doors.shortcut
+  * Wakes the vehicle (if needed) and locks the doors
+
+* Unlock_Doors.shortcut
+  * Wakes the vehicle (if needed) and unlocks the doors
+
 * Set_Charge_Limit.shortcut
   * Wakes the vehicle (if needed) and sets the charge limit to the user-selected percentage.
 
