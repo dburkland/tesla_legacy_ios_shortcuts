@@ -7,7 +7,7 @@ In order to utilize these shortcuts you will need to first import and execute th
 
 Tesla iOS Shortcut Inventory:
 
-* Generate_Tesla_Token.shortcut
+* [Generate Tesla_Token](https://www.icloud.com/shortcuts/5ca9ed690bfd41c69852d899951e86f8)
   * Generates an authorization token from the captured Tesla.com credentials
   * NOTE: This shortcut needs to be executed at least every 45 days since the tokens automatically expire
   * RECOMMENDATION: Set a reminder in your favorite calendaring or task app with the "workflow://run-workflow?name=Generate_Tesla_Token" link in the notes section
