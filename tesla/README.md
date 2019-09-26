@@ -7,38 +7,38 @@ In order to import these shortcuts you will first need to allow the import of un
 
 Tesla iOS Shortcut Inventory:
 
-* [Generate Tesla_Token](https://www.icloud.com/shortcuts/5ca9ed690bfd41c69852d899951e86f8)
+* [Generate Tesla_Token](https://www.icloud.com/shortcuts/4851b9fd86444233b9dd91d92c6e1a58)
   * Generates an authorization token from the captured Tesla.com credentials
   * NOTE: This shortcut needs to be executed at least every 45 days since the tokens automatically expire
   * RECOMMENDATION: Set a reminder in your favorite calendaring or task app with the "workflow://run-workflow?name=Generate_Tesla_Token" link in the notes section
 
-* [Open Frunk](https://www.icloud.com/shortcuts/68ce891946494983b30b5ccc73c48923)
+* [Open Frunk](https://www.icloud.com/shortcuts/009616fb076841aaa869819bac74e885)
   * Wakes the vehicle (if needed) and opens the frunk
 
-* [Open Trunk](https://www.icloud.com/shortcuts/7c0c67e9b90a4236af818db02cd52bc5)
+* [Open Trunk](https://www.icloud.com/shortcuts/4c0d15f394624be9ab8fe291244c099c)
   * Wakes the vehicle (if needed) and opens the trunk
 
-* [Turn On HVAC Normal](https://www.icloud.com/shortcuts/410b810cb84f424f99516d684a1e0c72)
+* [Turn On HVAC Normal](https://www.icloud.com/shortcuts/0da8c0e16545408cb6d4ab970c0b5f68)
   * Wakes the vehicle (if needed), turns on the HVAC system, and sets the temperature to 67 degrees Fahrenheit
 
-* [Turn On HVAC Max](https://www.icloud.com/shortcuts/17ad7145af9444b5956d0fb9201f7858)
+* [Turn On HVAC Max](https://www.icloud.com/shortcuts/61f04a4485d043b9ad5c230acc348052)
   * Wakes the vehicle (if needed), turns on the HVAC system, sets the temperature to 82 degrees Fahrenheit, and turns on the driver's seat warmer
 
-* [Turn Off HVAC](https://www.icloud.com/shortcuts/2ac891b7092a45c8a4398d336c30ff4b)
+* [Turn Off HVAC](https://www.icloud.com/shortcuts/85a4db8b1b3d417cb5db5bef9d8bc331)
   * Wakes the vehicle (if needed) and turns off the HVAC system
 
-* [Lock Doors](https://www.icloud.com/shortcuts/af49a0e013544cee93dd4b67c90f0a26)
+* [Lock Doors](https://www.icloud.com/shortcuts/da6e4ae667514cb3b6a79acfc86e5826)
   * Wakes the vehicle (if needed) and locks the doors
 
-* [Unlock Doors](https://www.icloud.com/shortcuts/779e75ebadfd42dcb7067d34dc4c5ae2)
+* [Unlock Doors](https://www.icloud.com/shortcuts/360e7c9d93b747aa8918127388a15860)
   * Wakes the vehicle (if needed) and unlocks the doors
 
-* [Turn On Sentry](https://www.icloud.com/shortcuts/8417c2ef445e4bd289348f5c60b190b8)
+* [Turn On Sentry](https://www.icloud.com/shortcuts/a349d906e8ba420d96e72ef9c0584565)
   * Wakes the vehicle (if needed) and turns on Sentry Mode
 
-* [Turn Off Sentry](https://www.icloud.com/shortcuts/0f4117588c4b45c6adbdb8050b63abe8)
+* [Turn Off Sentry](https://www.icloud.com/shortcuts/32a1eebdf9504206ac07367a34ffd67c)
   * Wakes the vehicle (if needed) and turns off Sentry Mode
 
-* [Set Charge Limit](https://www.icloud.com/shortcuts/01bd25cb38414ba1bf0eccb95e98d6bc)
+* [Set Charge Limit](https://www.icloud.com/shortcuts/c0f4bca934b748419d4703ef3be0c347)
   * Wakes the vehicle (if needed) and sets the charge limit to the user-selected percentage.
 
