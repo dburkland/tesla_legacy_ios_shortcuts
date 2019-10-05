@@ -21,7 +21,7 @@ Tesla iOS Shortcut Inventory:
 * [Turn On HVAC Normal](https://www.icloud.com/shortcuts/0da8c0e16545408cb6d4ab970c0b5f68)
   * Wakes the vehicle (if needed), turns on the HVAC system, and sets the temperature to 67 degrees Fahrenheit
 
-* [Turn On HVAC Max](https://www.icloud.com/shortcuts/61f04a4485d043b9ad5c230acc348052)
+* [Turn On HVAC Max](https://www.icloud.com/shortcuts/0e08a926e42f4b53a84386f34a70e8c7)
   * Wakes the vehicle (if needed), turns on the HVAC system, sets the temperature to 82 degrees Fahrenheit, and turns on the driver's seat warmer
 
 * [Turn Off HVAC](https://www.icloud.com/shortcuts/85a4db8b1b3d417cb5db5bef9d8bc331)
@@ -38,6 +38,12 @@ Tesla iOS Shortcut Inventory:
 
 * [Turn Off Sentry](https://www.icloud.com/shortcuts/32a1eebdf9504206ac07367a34ffd67c)
   * Wakes the vehicle (if needed) and turns off Sentry Mode
+
+* [Vent Windows](https://www.icloud.com/shortcuts/ed35c375224a4717a5353fb878698dda)
+  * Wakes the vehicle (if needed) and vents the windows
+
+* [Close Windows](https://www.icloud.com/shortcuts/8a6af10e8b484d41a68eea2f2ccf50eb)
+  * Wakes the vehicle (if needed) and closes teh windows
 
 * [Set Charge Limit](https://www.icloud.com/shortcuts/c0f4bca934b748419d4703ef3be0c347)
   * Wakes the vehicle (if needed) and sets the charge limit to the user-selected percentage.
