@@ -52,5 +52,5 @@ Tesla iOS Shortcut Inventory:
 
 * The name of the Shortcut is automatically setup as the command that Siri recognizes. 
 * So you can rename the Shortcut (after its imported) in the Shortcuts app to whatever command you like (However, it cannot conflict with an existing command)
-* For example, I tried to rename **Turn on HVAC Normal** to **Turn on Heat**, but that command is associated with HomeKit so it doesn't work. For now I'm using **Turn on Car Heat** (open to better suggestions).
+* For example, I tried to rename **Turn on HVAC Normal** to **Turn on Heat**, but that command is associated with HomeKit so it doesn't work. **Turn Heat On** works perfectly fine.
 
