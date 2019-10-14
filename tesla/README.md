@@ -47,4 +47,10 @@ Tesla iOS Shortcut Inventory:
 
 * [Set Charge Limit](https://www.icloud.com/shortcuts/c0f4bca934b748419d4703ef3be0c347)
   * Wakes the vehicle (if needed) and sets the charge limit to the user-selected percentage.
+  
+  ### Note: iOS 13 and Siri Shortcuts
+
+* The name of the Shortcut is automatically setup as the command that Siri recognizes. 
+* So you can rename the Shortcut (after its imported) in the Shortcuts app to whatever command you like (However, it cannot conflict with an existing command)
+* For example, I tried to rename **Turn on HVAC Normal** to **Turn on Heat**, but that command is associated with HomeKit so it doesn't work. For now I'm using **Turn on Car Heat** (open to better suggestions).
 
