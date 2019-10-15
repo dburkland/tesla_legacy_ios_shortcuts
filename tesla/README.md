@@ -7,7 +7,7 @@ In order to import these shortcuts you will first need to allow the import of un
 
 Tesla iOS Shortcut Inventory:
 
-* [Generate Tesla_Token](https://www.icloud.com/shortcuts/4851b9fd86444233b9dd91d92c6e1a58)
+* [Generate Tesla Token](https://www.icloud.com/shortcuts/4851b9fd86444233b9dd91d92c6e1a58)
   * Generates an authorization token from the captured Tesla.com credentials
   * NOTE: This shortcut needs to be executed at least every 45 days since the tokens automatically expire
   * RECOMMENDATION: Set a reminder in your favorite calendaring or task app with the "workflow://run-workflow?name=Generate_Tesla_Token" link in the notes section
@@ -43,14 +43,15 @@ Tesla iOS Shortcut Inventory:
   * Wakes the vehicle (if needed) and vents the windows
 
 * [Close Windows](https://www.icloud.com/shortcuts/8a6af10e8b484d41a68eea2f2ccf50eb)
-  * Wakes the vehicle (if needed) and closes teh windows
+  * Wakes the vehicle (if needed) and closes the windows
 
-* [Set Charge Limit](https://www.icloud.com/shortcuts/c0f4bca934b748419d4703ef3be0c347)
+* [Set Charge Limit](https://www.icloud.com/shortcuts/e610de39c9884324802f0fd895248238)
   * Wakes the vehicle (if needed) and sets the charge limit to the user-selected percentage.
   
-### Note: iOS 13 and Siri Shortcuts
+### NOTE: iOS/iPadOS 13 and Siri Voice Commands
 
-* The name of the Shortcut is automatically setup as the command that Siri recognizes. 
-* So you can rename the Shortcut (after its imported) in the Shortcuts app to whatever command you like (However, it cannot conflict with an existing command)
-* For example, I tried to rename **Turn on HVAC Normal** to **Turn on Heat**, but that command is associated with HomeKit so it doesn't work. **Turn Heat On** works perfectly fine.
+* The name of the Shortcut is automatically setup as the voice command phrase that Siri recognizes. 
+* If you would prefer another shortcut voice command phrase, you can simply rename the shortcut (after it is imported) in the Shortcuts app to whatever you like. 
+* Please keep in mind that the shortcut name must be unique from other shortcuts in your library.
+  * As an example, I tried to rename **Turn on HVAC Normal** to **Turn on Heat**, but that command is associated with HomeKit so it doesn't work. **Turn Heat On** however works perfectly fine.
 
