@@ -50,7 +50,7 @@ Tesla iOS Shortcut Inventory:
   
 ### FAQs
 
-* If you receive errors like this ![one](https://pbs.twimg.com/media/EHQXnncXYAEvPbZ?format=jpg&name=medium) please try the following:
+* If you receive errors like this one then please try the workaround steps listed below: ![](https://pbs.twimg.com/media/EHQXnncXYAEvPbZ?format=jpg&name=medium)
   * Delete the "Generate Tesla Token" shortcut and re-import it.
   * Execute the re-imported "Generate Tesla Token" shortcut, this time making sure to select "Allow" when prompted.
   * Re-run the Tesla shortcut that you originally tried to execute.
