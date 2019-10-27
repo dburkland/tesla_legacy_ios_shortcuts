@@ -48,9 +48,13 @@ Tesla iOS Shortcut Inventory:
 * [Set Charge Limit](https://www.icloud.com/shortcuts/e610de39c9884324802f0fd895248238)
   * Wakes the vehicle (if needed) and sets the charge limit to the user-selected percentage.
   
-### NOTE: iOS/iPadOS 13 and Siri Voice Commands
+### FAQs
 
-* The name of the Shortcut is automatically setup as the voice command phrase that Siri recognizes. 
+* If you receive errors like this ![one](https://pbs.twimg.com/media/EHQXnncXYAEvPbZ?format=jpg&name=medium) please try the following:
+  * Delete the "Generate Tesla Token" shortcut and re-import it.
+  * Execute the re-imported "Generate Tesla Token" shortcut, this time making sure to select "Allow" when prompted.
+  * Re-run the Tesla shortcut that you originally tried to execute.
+* The name of the shortcut is automatically setup as the voice command phrase that Siri recognizes. 
 * If you would prefer another shortcut voice command phrase, you can simply rename the shortcut (after it is imported) in the Shortcuts app to whatever you like. 
 * Please keep in mind that the shortcut name must be unique from other shortcuts in your library.
   * As an example, I tried to rename **Turn on HVAC Normal** to **Turn on Heat**, but that command is associated with HomeKit so it doesn't work. **Turn Heat On** however works perfectly fine.
