@@ -1,0 +1,23 @@
+{
+  "Version": "2.2",
+  "Download Latest Legacy Tesla Shortcuts": "https://www.icloud.com/shortcuts/95ce55d2e76749ad941248dffa15c376",
+  "Generate Tesla Token": "https://www.icloud.com/shortcuts/6bcba40e938a4bd5b240ef6aecd60e5a",
+  "Actuate Frunk": "https://www.icloud.com/shortcuts/302e34bfa8fb479e9ef5d17921f6c351",
+  "Actuate Trunk": "https://www.icloud.com/shortcuts/8bfadad6877c4daa9089fdcbdf33d3e3",
+  "Turn On HVAC Normal": "https://www.icloud.com/shortcuts/f58e64bf92ba4faa83a69ebc74eb8cd0",
+  "Turn On HVAC Max": "https://www.icloud.com/shortcuts/bace7b1ab4974a37ad32c02f1e23bdcf",
+  "Turn Off HVAC": "https://www.icloud.com/shortcuts/7d780d4e4a524217ad84874680fbe25b",
+  "Lock Doors": "https://www.icloud.com/shortcuts/270cb9e508f84894a991430762859dce",
+  "Unlock Doors": "https://www.icloud.com/shortcuts/de4c1943e8cc4640be34f158dabdef11",
+  "Turn On Sentry": "https://www.icloud.com/shortcuts/b8834a5e37db4f1b8749e075a20a5b93",
+  "Turn Off Sentry": "https://www.icloud.com/shortcuts/90a894cecb8b4123a6b162d57086e95a",
+  "Vent Windows": "https://www.icloud.com/shortcuts/65ad5721abac4083bb590e06b729ace9",
+  "Close Windows": "https://www.icloud.com/shortcuts/b021d8450f474e0a9532b3f3778d1cfb",
+  "Set Charge Limit": "https://www.icloud.com/shortcuts/33f0af26adb14a3eaef8c0ce3c1eec7a",
+  "Start Charging": "https://www.icloud.com/shortcuts/1cd7c9140ab4473bb07a8759180ebcdf",
+  "Stop Charging": "https://www.icloud.com/shortcuts/3482fd09f0864537ab66123c98113fe4",
+  "Open Charge Port Door": "https://www.icloud.com/shortcuts/12f4b2f9bdca4c85b583d894c4ad9539",
+  "Close Charge Port Door": "https://www.icloud.com/shortcuts/0c52bf8a09e742519be74a67566f8f71",
+  "Honk Horn": "https://www.icloud.com/shortcuts/544bf5f88f4642379c705dc76619d493",
+  "Flash Lights": "https://www.icloud.com/shortcuts/f32ccf2647bc479da4f3f1fc4d506c88"
+}
