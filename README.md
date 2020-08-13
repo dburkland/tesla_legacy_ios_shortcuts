@@ -3,18 +3,18 @@ README
 
 The Tesla legacy shortcuts were created based on the excellent examples shared by u/jn1cks of reddit.com in this post: https://www.reddit.com/r/teslamotors/comments/ahe5be/i_created_a_siri_shortcut_that_wakes_up_my_tesla/. 
 
-In order to import the shortcuts you will first need to allow the import of untrusted shortcuts. This can be done by completing the steps documented [here](https://9to5mac.com/2019/08/14/allow-untrusted-shortcuts-ios-13/). You can then click on the link next to "Download Latest Legacy Tesla Shortcuts" to download & install the shortcut downloader. With the shortcut downloader installed please execute it via the Shortcuts app to downlad each of the shortcuts. Once each shortcut has been imported into the Shortcuts app on your device, you will then need to execute the "Generate Tesla Token" shortcut. This results in the creation of an authentication token that is used to communicate with your car. Once that is complete you can then execute any of the other Tesla shortcuts.
+In order to import the shortcuts, you will first need to allow the import of untrusted shortcuts. This can be done by completing the steps documented [here](https://9to5mac.com/2019/08/14/allow-untrusted-shortcuts-ios-13/). You can then click on the link next to "Download Latest Legacy Tesla Shortcuts" to download & install the shortcut downloader. With the shortcut downloader installed please execute it via the Shortcuts app to download each of the shortcuts. Once each shortcut has been imported into the Shortcuts app on your device, you will then need to execute the "Generate Tesla Token" shortcut. This results in the creation of an authentication token that is used to communicate with your car. Once that is complete you can then execute any of the other Tesla shortcuts.
 
 Tesla Legacy iOS Shortcut Inventory:
 
 * [Download Latest Legacy Tesla Shortcuts](https://www.icloud.com/shortcuts/95ce55d2e76749ad941248dffa15c376)
   * Allows you to download each of the published Tesla legacy shortcuts, right from the Shortcuts app.
-  * NOTE: Anytime a new version of the Tesla legacy shortcuts is released 
+  * NOTE: Anytime a new version of the Tesla legacy shortcuts is released you simply need to re-run this shortcut and re-download the appropriate shortcut(s) replacing the existing copies.
 
 * Generate Tesla Token
   * Generates an authorization token from the captured Tesla.com credentials
-  * NOTE: This shortcut needs to be executed at least every 45 days since the tokens automatically expire
-  * RECOMMENDATION: Set a reminder in your favorite calendaring or task app with the "workflow://run-workflow?name=Generate_Tesla_Token" link in the notes section
+  * NOTE: This shortcut needs to be executed at least every 45 days since the tokens automatically expire.
+  * RECOMMENDATION: Set a reminder in your favorite calendaring or task app with the "workflow://run-workflow?name=Generate_Tesla_Token" link in the notes section.
 
 * Actuate Frunk
   * Wakes the vehicle (if needed) and actuates the frunk
